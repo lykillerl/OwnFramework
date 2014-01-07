@@ -1,0 +1,13 @@
+<div style="width:240px; height:240px; margin:30px;">
+    <h1>Change Category</h1>
+        Please fill in the blank, and click '<span style="color:#008; font-weight:bold;">Change</span>' button or
+        click '<span style="color:#800; font-weight:bold;">Delete</span>' button if you want to delete this category.
+    <p>
+        Current Category : <span style="color:#004; font-weight:bold;">{CURRENT_CATEGORY}</span>
+    </p>
+    <p>
+        <label for="CTitle">New Category Title</label><input type="text" id="CTitle" />
+    </p>
+    <div class="ytv_btn" style="margin-bottom:0.5em;" href="function:App.Submit.ChgCat::{CURRENT_ID}">Change</div>
+    <div class="ytv_btn" style="margin-bottom:0.5em;" href="function:App.Submit.DelCat::{CURRENT_ID}">Delete</div>
+</div>

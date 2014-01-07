@@ -1,0 +1,548 @@
+body.dashboard {
+    background: url('../images/_system/background.jpg');
+    font-size: 80%;
+    font-family: Arial;
+    color: #666;
+    margin:0px;
+    padding:0px;
+    outline: none;
+    min-width:320px;
+}
+
+body.dashboard input, body.dashboard select,
+body.dashboard table, body.dashboard tbody, body.dashboard tr,
+body.dashboard tt, body.dashboard td, body.dashboard th,
+body.dashboard div, body.dashboard span {
+    font-size:1em;
+    border-spacing:0px;
+    outline: none;
+}
+
+body.dashboard input {
+    color: #666;
+    border:1px solid #ccc;
+    -moz-border-radius:5px;
+    -webkit-border-radius:5px;
+    -khtml-border-radius:5px;
+    border-radius:5px;
+}
+
+table {
+    -moz-border-radius:5px;
+    -webkit-border-radius:5px;
+    -khtml-border-radius:5px;
+    border-radius:5px;
+}
+
+body.dashboard table.table {
+    padding:3px;
+}
+
+body.dashboard table.table td, body.dashboard table.table th {
+    border: 1px solid #ccc;
+}
+
+body.dashboard table.table {
+    border: 1px solid #999;
+}
+
+div.section > div {
+    position: relative;
+    width:100%;
+    height:100%;
+}
+
+div.section > div > div {
+    position: absolute;
+}
+
+body.dashboard div.header {
+    background-color: #222e42;
+    width:100%;
+    height:60px;
+}
+
+body.dashboard div.header > div.navicon {
+    display:none;
+    float:left;
+    width:60px;
+    height:60px;
+    background: url('../images/_system/navicon.png') no-repeat;
+}
+
+body.dashboard div.header > div.title {
+    float:left;
+    font:2em Arial !important;
+    color:#fff !important;
+    margin:0px !important;
+    padding:0px !important;
+    margin-left:0.5em !important;
+    line-height:60px !important;
+    height:60px;
+    max-width:44%;
+    overflow:hidden;
+}
+
+body.dashboard div.header > div.pinfor {
+    float:right;
+    font:1em Arial;
+    color:#fff;
+    padding:0.5em;
+}
+
+body.dashboard div.header > div.pinfor > div {
+    color:#fff;
+    text-align: right;
+}
+
+body.dashboard div.header > div.pinfor > div.admin {
+    text-align: center;
+    background:#c00;
+    -moz-border-radius:10px;
+    -webkit-border-radius:10px;
+    -khtml-border-radius:10px;
+    border-radius:10px;
+}
+
+div.fbconnect {
+    background:url('../images/_system/btn_fbconnect.png') no-repeat;
+    width:152px;
+    height:32px;
+}
+
+body.dashboard div.nav > div > div.arrow {
+    background: url('../images/_system/navarrow.png') no-repeat;
+    width:199px;
+    height:199px;
+}
+
+body.dashboard div.nav > div > div.text {
+    font:bold 1.5em Arial;
+    left:155px;
+    top:175px;
+}
+
+div > ul.menu {
+    list-style-type: none;
+    position:absolute;
+    background:#fff;
+    margin:0px;
+    padding:2px;
+    border:1px solid #ccc;
+    -moz-border-radius:10px;
+    -webkit-border-radius:10px;
+    -khtml-border-radius:10px;
+    border-radius:10px;
+    z-index: 10;
+}
+
+div > ul.menu > li {
+    cursor:pointer;
+    padding:0.5em 1em;
+    white-space:nowrap;
+    font:1em Arial;
+    background-color:#fff;
+    border-bottom:1px solid #eee;
+    -moz-border-radius:10px;
+    -webkit-border-radius:10px;
+    -khtml-border-radius:10px;
+    border-radius:10px;
+}
+
+div > ul.menu li:hover {
+    background-color:#222e42;
+    color:#fff;
+}
+
+body.dashboard div#container {
+    padding:2%;
+    width:96%;
+}
+
+body.dashboard div#container > div, body.dashboard div#container > table {
+    margin:2em auto;
+    padding:2em;
+    background:#fff;
+    overflow: auto;
+    max-height: 80%;
+    border:1px solid #ccc;
+    -moz-border-radius:10px;
+    -webkit-border-radius:10px;
+    -khtml-border-radius:10px;
+    border-radius:10px;
+}
+
+body.dashboard div#container > div.page {
+    margin:5em auto;
+    -moz-border-radius:10px;
+    -webkit-border-radius:10px;
+    -khtml-border-radius:10px;
+    border-radius:10px;
+}
+
+body.dashboard div.title {
+    font:bold 2em Arial;
+    padding-bottom:0.5em;
+}
+
+div.floatbox {
+    clear:both;
+}
+
+div.floatbox > div {
+    float:left;
+}
+
+span.field {
+    display:inline-block;
+    padding:0.5em;
+    width:10em;
+}
+
+span.fieldtext {
+    display:inline-block;
+    width:19em;
+}
+
+span.fieldtext > input {
+    padding:0.1em;
+    width:100%;
+}
+
+input.btn {
+    background:#fff;
+    color:#222e42;
+    font-weight:bold;
+    padding:0.5em 2em;
+    border:1px solid #ccc;
+    -moz-border-radius:10px;
+    -webkit-border-radius:10px;
+    -khtml-border-radius:10px;
+    border-radius:10px;
+}
+
+input.btn:hover {
+    background:#222e42;
+    color:#fff !important;
+}
+
+input.btnlow {
+    background:#fff;
+    padding:0.5em 2em;
+    border:1px solid #ccc;
+    -moz-border-radius:10px;
+    -webkit-border-radius:10px;
+    -khtml-border-radius:10px;
+    border-radius:10px;
+}
+
+input.btnlow:hover {
+    background:#ddd !important;
+}
+
+input.txt, textarea, input[type=text], input[type=password] {
+    padding:0.3em !important;
+}
+
+body.dashboard div.facebook {
+    background:url('../images/_system/btn_facebook.png');
+    width:200px;
+    height:39px;
+    margin:0% auto;
+}
+
+div.box, table.box	{
+		background-color:#fff;
+		border : 1px solid #ccc;
+		-moz-border-radius : 10px;
+		-webkit-border-radius : 10px;
+		border-radius : 10px;
+		-moz-border-shadow : 0px 0px 20px #000000;
+		-webkit-border-shadow : 0px 0px 20px #000000;
+		padding : 0.5em;
+}
+
+div.box_title, span.box_title {
+    font:bold 1.3em Arial;
+    display:block;
+    color:#000;
+    padding:1em;
+    padding-left:0px;
+}
+
+a.link {
+    font:0.9em Arial;
+    text-decoration: none;
+    border-top:1px solid #000;
+    border-bottom:1px solid #000;
+    color:#000;
+}
+
+a.link:hover {
+    font:0.9em Arial;
+    text-decoration: none;
+    border-top:1px solid #999;
+    border-bottom:1px solid #999;
+    color:#999;
+}
+
+/* Text Coloring Control */
+
+span.bold {
+    font-weight:900;
+}
+
+span.warning {
+    color:#882e2e;
+}
+
+span.normal {
+    color:#2e2e88;
+}
+
+span.success {
+    color:#2e882e;
+}
+
+span.unknow {
+    color:#888888;
+}
+
+span.inform {
+    font-weight:600;
+    color:#cccc11;
+}
+
+/* Table Row Line Control */
+
+tr.row_h {
+    background-color:#222e42;
+    color:#fff;
+}
+
+tr.row_h > th > span {
+    color:#fff !important;
+}
+
+th.row_t {
+    font:bold 1.2em Arial;
+    color:#222e42;
+}
+
+tr.row_0 {
+    background-color:#fff;
+}
+
+tr.row_1 {
+    background-color:#eef;
+}
+
+tr.row_2 {
+    background-color:#eee;
+}
+
+tr.row_0:hover, tr.row_0:hover > td, tr.row_0:hover > td > span, tr.row_0:hover > td > a, tr.row_0:hover > td > a > span,
+tr.row_1:hover, tr.row_1:hover > td, tr.row_1:hover > td > span, tr.row_1:hover > td > a, tr.row_1:hover > td > a > span,
+tr.row_2:hover, tr.row_2:hover > td, tr.row_2:hover > td > span, tr.row_2:hover > td > a, tr.row_2:hover > td > a > span {
+    background-color:#ffffe5;
+}
+
+/* Form Element Style */
+th.form_title, td.form_title	{
+	background-color: #222e42;
+    color:#fff;
+    white-space: nowrap;
+	border-bottom: 4px double #ccc;
+	font-weight : 900;
+	padding : 0.8em;
+	text-align : center;
+}
+
+td.form_header	{
+	background-color : #ffe;
+	padding: 0.8em;
+	border-bottom : 4px double;
+	border-bottom-color : #666;
+	font-weight : 900;
+}
+
+td.form_lable	{
+	background-color : #ffe;
+	padding: 0.5em;
+	border-bottom : 1px solid;
+	border-bottom-color : #ccc;
+}
+
+td.form_line	{
+	background-color : #fff;
+	padding: 0.5em;
+	border-bottom : 1px solid;
+	border-bottom-color : #ccc;
+}
+
+td.form_button	{
+	background-color: #eee;
+	padding: 0.5em;
+	border: 1px solid #ccc;
+    border-left:0px;
+    border-right:0px;
+}
+
+span.form_alert	{
+	border: none;
+	color: #f88;
+	font-weight: 900;
+}
+
+/* Pagination Element Style */
+
+.pageination {
+	border-right : 1px solid;
+	border-bottom : 1px solid;
+	width : 20px;
+	height : 20px;
+	text-align : center;
+	border-color : #CCCCCC;
+}
+
+.pageination_selected	{
+	background-color : #222e42;
+    color:#fff;
+	border-right : 1px solid;
+	border-bottom : 1px solid;
+	width : 20px;
+	height : 20px;
+	text-align : center;
+	border-color : #ccc;
+}
+
+.pageination a	{
+	display : block;
+	width : 100%;
+	height : 100%;
+	line-height : 20px;
+}
+
+.pageination a:hover {
+	display : block;
+	width : 100%;
+	height : 100%;
+	line-height : 20px;
+}
+
+/* Tab Css */
+table.tab {
+    text-align: center;
+    vertical-align: middle;
+    background-color:transparent;
+    height:100%;
+    border: none;
+	-moz-border-radius : 10px;
+	-webkit-border-radius : 10px;
+	border-radius : 10px;
+    padding:0px;
+    margin:0px;
+}
+
+td.tab	{
+	background-color : #fff;
+	font : 1em Arial;
+    color:#999;
+    height:100%;
+    margin:0px;
+    vertical-align: middle;
+	border: 1px solid #ccc;
+	-moz-border-radius : 10px;
+	-webkit-border-radius : 10px;
+	border-radius : 10px;
+	padding:0em 3em;
+}
+
+td.tab:hover	{
+	background-color : #fff;
+	font:bold 1em Arial;
+	color:#666;
+}
+
+td.seltab {
+	background-color : #222e42;
+	font : 1em Arial;
+    color:#fff;
+    height:100%;
+    margin:0px;
+    vertical-align: middle;
+	border: 1px solid #ccc;
+	-moz-border-radius : 10px;
+	-webkit-border-radius : 10px;
+	border-radius : 10px;
+	padding:0em 3em;
+}
+
+td.seltab > a {
+    color:#fff !important;
+}
+
+/* Permission List Style */
+
+body.dashboard ul.permit {
+    list-style-type: none;
+    margin:0px;
+    margin-left:3em;
+}
+
+body.dashboard ul.permit > li {
+    margin:2px;
+    padding:0em;
+    height:3em;
+    clear:both;
+	border: 1px solid #ccc;
+	-moz-border-radius : 10px;
+	-webkit-border-radius : 10px;
+	border-radius : 10px;
+}
+
+body.dashboard ul.permit > li.unknow {
+    background-color:#222e42;
+    color:#fff;
+}
+
+body.dashboard ul.permit > li.allow {
+    background-color:#22422e;
+    color:#fff;
+}
+
+body.dashboard ul.permit > li.deny {
+    background-color:#42222e;
+    color:#fff;
+}
+
+body.dashboard ul.permit > li div {
+    float:left;
+    padding:0.25em;
+	-moz-border-radius : 10px;
+	-webkit-border-radius : 10px;
+	border-radius : 10px;
+}
+
+body.dashboard ul.permit > li div.nav {
+    width:4em;
+    background:#fff;
+    font:bold 1.5em Arial;
+    text-align:center;
+    line-height:1.5em;
+	opacity : 0.60;
+	-moz-opacity : 0.60;
+	filter : Alpha(opacity=60);
+}
+
+body.dashboard ul.permit > li.unknow div.nav {
+    color:#222e42;
+}
+
+body.dashboard ul.permit > li.allow div.nav {
+    color:#22422e;
+}
+
+body.dashboard ul.permit > li.deny div.nav {
+    color:#42222e;
+}

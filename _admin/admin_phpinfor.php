@@ -1,0 +1,1 @@
+<?php#Create by LYK on 2012-06-22 @ 18:30PMdefine('DIR_LEVEL', 1);include_once ("../_init.php");date_default_timezone_set("Asia/Singapore");echo $Sys->Header(Lang("Server Information")) . "<hr />";phpinfo();?>

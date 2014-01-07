@@ -1,0 +1,182 @@
+*, body, input, img, div, span {
+    outline: none;
+}
+
+body {
+    font-family: Arial;
+    font-size:80%;
+    color:#666;
+    margin:0px;
+    padding:0px;
+    background:#fff url('../images/bg.png');
+    background-attachment: fixed;
+}
+
+#container {
+    min-width:320px;
+    font-size:100%;
+    height:auto;
+}
+
+div.ytv_header_txt {
+    font:bold 2em Arial;
+    padding:0.2em;
+}
+
+div.ytv_headline {
+    height:2.5em;
+    padding:0.1em;
+    margin:0.2em
+}
+
+div.ytv_cat{
+    margin:0.1em;
+    font-size:1em;
+    padding:0.2em 3em;
+    background-color:#eee;
+    cursor:pointer;
+    text-align: center;
+    border:1px solid #ccc;
+    -moz-border-radius:10px;
+    -webkit-border-radius:10px;
+    -khtml-border-radius:10px;
+    border-radius:10px;
+}
+
+div.ytv_cat:hover {
+    background-color:#ffe;
+    border:1px solid #666;
+}
+
+div.ytv_btn{
+    margin:0.1em;
+    font-size:1em;
+    padding:0.2em 1em;
+    background-color:#eee;
+    cursor:pointer;
+    text-align: center;
+    border:1px solid #ccc;
+    -moz-border-radius:10px;
+    -webkit-border-radius:10px;
+    -khtml-border-radius:10px;
+    border-radius:10px;
+}
+
+div.ytv_btn:hover {
+    background-color:#ffe;
+    border:1px solid #666;
+}
+
+div.ytv_chg_btn {
+    margin-left:1em;
+    float:left;
+    background-color:#ffc;
+}
+
+div.ytv_list_block {
+    float:left;
+    margin:10px;
+    width:140px;
+    height:140px;
+}
+
+div.ytv_catlist_title {
+    font:bold 2em Arial;
+    border-bottom:1px solid #ccc;
+    margin:1em 0.25% 0% 0.25%;
+    margin-top:1em;
+    width:99.5%;
+    float:left;
+}
+
+img.ytv_video_img {
+    width:100%;
+    background:#000;
+}
+
+div.ytv_video_title {
+    width:100%;
+    height:30px;
+    font:1em Arial;
+}
+
+ul.menu {
+    position:absolute;
+    background:#fff;
+    border:1px solid #ccc;
+    -moz-border-radius:10px;
+    -webkit-border-radius:10px;
+    -khtml-border-radius:10px;
+    border-radius:10px;
+    z-index: 10;
+}
+
+li.menu_list {
+    cursor:pointer;
+    padding:0.5em 2em;
+    margin:0px;
+    white-space:nowrap;
+    font:1em Arial;
+    color:#000;
+    background-color:#fff;
+    border-bottom:1px solid #eee;
+    -moz-border-radius:10px;
+    -webkit-border-radius:10px;
+    -khtml-border-radius:10px;
+    border-radius:10px;
+}
+
+li.menu_list:hover {
+    background-color:#004;
+    color:#fff;
+}
+
+div.ytv_dashboard {
+    float:right;
+}
+
+table.ytv_view_content {
+    width:100%;
+    background-color:#fff;
+    height:auto;
+    padding:1%;
+}
+
+td.ytv_view_title {
+    font:1.5em Arial;
+    color:#000;
+}
+
+td.ytv_view_infor {
+    font:0.75em Arial;
+    color:#000;
+    white-space: nowrap;
+    text-align: right;
+    vertical-align: top;
+}
+
+tr.ytv_view_desc > td {
+    font:1em Arial;
+    color:#000;
+    max-height:100px;
+    overflow:auto;
+}
+
+div.ytv_view_desc {
+    max-height:10em;
+    overflow:auto;
+}
+
+div.ytv_view_desc > a {
+    font:bold 1em Arial;
+    color:#005;
+}
+
+@media only screen and (max-width: 640px) {
+    div.ytv_dashboard{display:none;}
+    td.ytv_view_title{font:1em Arial;}
+    td.ytv_view_infor {
+        font:0.5em Arial;
+    }
+    tr.ytv_view_desc {display:none;}
+}

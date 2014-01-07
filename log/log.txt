@@ -1,0 +1,638 @@
+2013-12-02 23:35:08 array (
+  'id' => '1179540924',
+  'name' => '劉勇慷',
+  'first_name' => '勇慷',
+  'last_name' => '劉',
+  'link' => 'https://www.facebook.com/yklow84',
+  'username' => 'yklow84',
+  'bio' => '孤獨是什麼滋味的呢？',
+  'quotes' => '相信自己是可以的，努力通過難關。
+用心是最好的雕刻刀，真心是最好的雕刻材料。',
+  'gender' => 'male',
+  'email' => 'lykillerl@gmail.com',
+  'timezone' => 8,
+  'locale' => 'zh_TW',
+  'languages' => 
+  array (
+    0 => 
+    array (
+      'id' => '103088979730830',
+      'name' => 'Mandarin Chinese',
+    ),
+    1 => 
+    array (
+      'id' => '106059522759137',
+      'name' => 'English',
+    ),
+  ),
+  'verified' => true,
+  'updated_time' => '2013-11-24T14:46:57+0000',
+)
+2013-12-02 23:36:01 array (
+  'admin' => 2,
+  'fbid' => '1179540924',
+)
+2013-12-02 23:36:48 array (
+  1179540924 => 
+  array (
+    'name' => '劉勇慷',
+    'gender' => 'male',
+    'email' => 'lykillerl@gmail.com',
+    'birthday' => NULL,
+    'location' => NULL,
+    'hometown' => NULL,
+    'fb' => 
+    array (
+      'id' => '1179540924',
+      'name' => '劉勇慷',
+      'first_name' => '勇慷',
+      'last_name' => '劉',
+      'link' => 'https://www.facebook.com/yklow84',
+      'username' => 'yklow84',
+      'bio' => '孤獨是什麼滋味的呢？',
+      'quotes' => '相信自己是可以的，努力通過難關。
+用心是最好的雕刻刀，真心是最好的雕刻材料。',
+      'gender' => 'male',
+      'email' => 'lykillerl@gmail.com',
+      'timezone' => 8,
+      'locale' => 'zh_TW',
+      'languages' => 
+      array (
+        0 => 
+        array (
+          'id' => '103088979730830',
+          'name' => 'Mandarin Chinese',
+        ),
+        1 => 
+        array (
+          'id' => '106059522759137',
+          'name' => 'English',
+        ),
+      ),
+      'verified' => true,
+      'updated_time' => '2013-11-24T14:46:57+0000',
+    ),
+    'admin' => 2,
+    'timeadd' => '2013-12-02 23:09:49',
+  ),
+)
+2013-12-02 23:37:50 array (
+  1179540924 => 
+  array (
+    'name' => '劉勇慷',
+    'gender' => 'male',
+    'email' => 'lykillerl@gmail.com',
+    'birthday' => NULL,
+    'location' => NULL,
+    'hometown' => NULL,
+    'fb' => 
+    array (
+      'id' => '1179540924',
+      'name' => '劉勇慷',
+      'first_name' => '勇慷',
+      'last_name' => '劉',
+      'link' => 'https://www.facebook.com/yklow84',
+      'username' => 'yklow84',
+      'bio' => '孤獨是什麼滋味的呢？',
+      'quotes' => '相信自己是可以的，努力通過難關。
+用心是最好的雕刻刀，真心是最好的雕刻材料。',
+      'gender' => 'male',
+      'email' => 'lykillerl@gmail.com',
+      'timezone' => 8,
+      'locale' => 'zh_TW',
+      'languages' => 
+      array (
+        0 => 
+        array (
+          'id' => '103088979730830',
+          'name' => 'Mandarin Chinese',
+        ),
+        1 => 
+        array (
+          'id' => '106059522759137',
+          'name' => 'English',
+        ),
+      ),
+      'verified' => true,
+      'updated_time' => '2013-11-24T14:46:57+0000',
+    ),
+    'admin' => 2,
+    'timeadd' => '2013-12-02 23:09:49',
+  ),
+)
+2013-12-02 23:38:09 array (
+  1179540924 => 
+  array (
+    'name' => '劉勇慷',
+    'gender' => 'male',
+    'email' => 'lykillerl@gmail.com',
+    'fb' => 
+    array (
+      'id' => '1179540924',
+      'name' => '劉勇慷',
+      'first_name' => '勇慷',
+      'last_name' => '劉',
+      'link' => 'https://www.facebook.com/yklow84',
+      'username' => 'yklow84',
+      'bio' => '孤獨是什麼滋味的呢？',
+      'quotes' => '相信自己是可以的，努力通過難關。
+用心是最好的雕刻刀，真心是最好的雕刻材料。',
+      'gender' => 'male',
+      'email' => 'lykillerl@gmail.com',
+      'timezone' => 8,
+      'locale' => 'zh_TW',
+      'languages' => 
+      array (
+        0 => 
+        array (
+          'id' => '103088979730830',
+          'name' => 'Mandarin Chinese',
+        ),
+        1 => 
+        array (
+          'id' => '106059522759137',
+          'name' => 'English',
+        ),
+      ),
+      'verified' => true,
+      'updated_time' => '2013-11-24T14:46:57+0000',
+    ),
+    'admin' => 2,
+    'timeadd' => '2013-12-02 23:38:09',
+  ),
+)
+2013-12-16 17:20:07 SELECT `ID` AS 'ID', `CODE` AS 'CODE', `CONTENT` AS 'CONTENT' FROM `{STB_ARTICLES}` WHERE `ID`='0' ORDER BY `CODE` ASC Table 'maxis_lifesimple.{stb_articles}' doesn't exist
+2013-12-16 17:39:40 SELECT `ID` AS 'ID', `CODE` AS 'CODE', `CONTENT` AS 'CONTENT' FROM `{STB_ARTICLES}` WHERE `ID`='0' ORDER BY `CODE` ASC Table 'maxis_lifesimple.{stb_articles}' doesn't exist
+2013-12-17 11:09:28 SELECT `ID` AS 'ID', `CODE` AS 'CODE', `CONTENT` AS 'CONTENT' FROM `{STB_ARTICLES}` WHERE `ID`='0' ORDER BY `CODE` ASC Table 'maxis_lifesimple.{stb_articles}' doesn't exist
+2013-12-17 11:27:08 DB Error: use . No database selected
+2013-12-17 13:02:50 DB Error: use . No database selected
+2013-12-17 17:28:16 SELECT `ID` AS 'ID', `CODE` AS 'CODE', `CONTENT` AS 'CONTENT' FROM `{STB_ARTICLES}` WHERE `ID`='0' ORDER BY `CODE` ASC Table 'maxis_lifesimple.{stb_articles}' doesn't exist
+2013-12-17 20:56:43 SELECT `ID` AS 'ID', `CODE` AS 'CODE', `CONTENT` AS 'CONTENT' FROM `{STB_ARTICLES}` WHERE `ID`='0' ORDER BY `CODE` ASC Table 'maxis_lifesimple.{stb_articles}' doesn't exist
+2013-12-17 20:57:22 SELECT `FName` FROM `{STB_USERS}` WHERE `ID`='2' LIMIT 0, 1 Table 'maxis_lifesimple.{stb_users}' doesn't exist
+2013-12-18 12:35:35 SELECT `ID` AS 'ID', `CODE` AS 'CODE', `CONTENT` AS 'CONTENT' FROM `{STB_ARTICLES}` WHERE `ID`='0' ORDER BY `CODE` ASC Table 'maxis_lifesimple.{stb_articles}' doesn't exist
+2013-12-18 16:37:16 SELECT `ID` AS 'ID', `CODE` AS 'CODE', `CONTENT` AS 'CONTENT' FROM `{STB_ARTICLES}` WHERE `ID`='0' ORDER BY `CODE` ASC Table 'maxis_lifesimple.{stb_articles}' doesn't exist
+2013-12-18 16:54:14 SELECT `ID` AS 'ID', `CODE` AS 'CODE', `CONTENT` AS 'CONTENT' FROM `{STB_ARTICLES}` WHERE `ID`='0' ORDER BY `CODE` ASC Table 'maxis_lifesimple.{stb_articles}' doesn't exist
+2013-12-18 20:53:45 SELECT `FName` FROM `{STB_USERS}` WHERE `ID`='2' LIMIT 0, 1 Table 'maxis_lifesimple.{stb_users}' doesn't exist
+2013-12-19 12:18:16 DB Error: use . No database selected
+2013-12-24 22:31:43 SELECT `FName` FROM `{STB_USERS}` WHERE `ID`='2' LIMIT 0, 1 Table 'maxis_lifesimple.{stb_users}' doesn't exist
+2013-12-25 00:26:47 SELECT `FName` FROM `{STB_USERS}` LIMIT 0, 1 Table 'maxis_lifesimple.{stb_users}' doesn't exist
+2013-12-25 00:37:59 SELECT `FName` FROM `{STB_USERS}` LIMIT 0, 1 Table 'maxis_lifesimple.{stb_users}' doesn't exist
+2013-12-25 00:54:34 SELECT `FName` FROM `{STB_USERS}` LIMIT 0, 1 Table 'maxis_lifesimple.{stb_users}' doesn't exist
+2013-12-25 00:55:50 SELECT `FName` FROM `{STB_USERS}` LIMIT 0, 1 Table 'maxis_lifesimple.{stb_users}' doesn't exist
+2013-12-25 00:55:51 SELECT `FName` FROM `{STB_USERS}` LIMIT 0, 1 Table 'maxis_lifesimple.{stb_users}' doesn't exist
+2013-12-25 00:55:52 SELECT `FName` FROM `{STB_USERS}` LIMIT 0, 1 Table 'maxis_lifesimple.{stb_users}' doesn't exist
+2013-12-25 00:55:53 SELECT `FName` FROM `{STB_USERS}` LIMIT 0, 1 Table 'maxis_lifesimple.{stb_users}' doesn't exist
+2013-12-25 00:56:12 SELECT `FName` FROM `{STB_USERS}` LIMIT 0, 1 Table 'maxis_lifesimple.{stb_users}' doesn't exist
+2013-12-25 00:57:27 SELECT `FName` FROM `{STB_USERS}` LIMIT 0, 1 Table 'maxis_lifesimple.{stb_users}' doesn't exist
+2013-12-25 00:57:54 SELECT `FName` FROM `{STB_USERS}` LIMIT 0, 1 Table 'maxis_lifesimple.{stb_users}' doesn't exist
+2013-12-26 00:52:39 DB Error: use . No database selected
+2013-12-27 10:25:35  
+2013-12-27 10:25:35 DB Error: connect . 
+2013-12-27 10:25:35  
+2013-12-27 10:25:35 DB Error: connect . 
+2013-12-27 10:25:36  
+2013-12-27 10:25:36 DB Error: connect . 
+2013-12-27 10:33:37  
+2013-12-27 10:33:37 DB Error: connect . 
+2013-12-27 10:33:37  
+2013-12-27 10:33:37 DB Error: connect . 
+2013-12-27 10:33:38  
+2013-12-27 10:33:38 DB Error: connect . 
+2013-12-27 10:33:50  
+2013-12-27 10:33:50 DB Error: connect . 
+2013-12-27 10:33:50  
+2013-12-27 10:33:50 DB Error: connect . 
+2013-12-27 10:33:51  
+2013-12-27 10:33:51 DB Error: connect . 
+2013-12-27 10:37:13  
+2013-12-27 10:37:13 DB Error: connect . 
+2013-12-27 10:37:13  
+2013-12-27 10:37:13 DB Error: connect . 
+2013-12-27 10:37:13  
+2013-12-27 10:37:13 DB Error: connect . 
+2013-12-27 10:38:01  
+2013-12-27 10:38:01 DB Error: connect . 
+2013-12-27 10:38:01  
+2013-12-27 10:38:01 DB Error: connect . 
+2013-12-27 10:38:01  
+2013-12-27 10:38:01 DB Error: connect . 
+2013-12-27 10:38:08  
+2013-12-27 10:38:08 DB Error: connect . 
+2013-12-27 10:38:08  
+2013-12-27 10:38:08 DB Error: connect . 
+2013-12-27 10:38:09  
+2013-12-27 10:38:09 DB Error: connect . 
+2013-12-27 10:38:20  
+2013-12-27 10:38:20 DB Error: connect . 
+2013-12-27 10:38:20  
+2013-12-27 10:38:20 DB Error: connect . 
+2013-12-27 10:38:21  
+2013-12-27 10:38:21 DB Error: connect . 
+2013-12-27 10:38:31  
+2013-12-27 10:38:31 DB Error: connect . 
+2013-12-27 10:38:31  
+2013-12-27 10:38:31 DB Error: connect . 
+2013-12-27 10:38:31  
+2013-12-27 10:38:31 DB Error: connect . 
+2013-12-27 10:39:35  
+2013-12-27 10:39:35 DB Error: connect . 
+2013-12-27 10:39:38  
+2013-12-27 10:39:38 DB Error: connect . 
+2013-12-27 10:39:38  
+2013-12-27 10:39:38 DB Error: connect . 
+2013-12-27 10:39:38  
+2013-12-27 10:39:38 DB Error: connect . 
+2013-12-27 10:39:42  
+2013-12-27 10:39:42 DB Error: connect . 
+2013-12-27 10:39:42  
+2013-12-27 10:39:42 DB Error: connect . 
+2013-12-27 10:39:43  
+2013-12-27 10:39:43 DB Error: connect . 
+2013-12-27 10:40:55  
+2013-12-27 10:40:55 DB Error: connect . 
+2013-12-27 10:40:55  
+2013-12-27 10:40:55 DB Error: connect . 
+2013-12-27 10:40:55  
+2013-12-27 10:40:55 DB Error: connect . 
+2013-12-27 10:41:12  
+2013-12-27 10:41:12 DB Error: connect . 
+2013-12-27 10:41:12  
+2013-12-27 10:41:12 DB Error: connect . 
+2013-12-27 10:41:12  
+2013-12-27 10:41:12 DB Error: connect . 
+2013-12-27 10:42:11  
+2013-12-27 10:42:11 DB Error: connect . 
+2013-12-27 10:42:11  
+2013-12-27 10:42:11 DB Error: connect . 
+2013-12-27 10:42:11  
+2013-12-27 10:42:11 DB Error: connect . 
+2013-12-27 10:42:12  
+2013-12-27 10:42:12 DB Error: connect . 
+2013-12-27 10:42:50  
+2013-12-27 10:42:50 DB Error: connect . 
+2013-12-27 10:42:50  
+2013-12-27 10:42:50 DB Error: connect . 
+2013-12-27 10:42:51  
+2013-12-27 10:42:51 DB Error: connect . 
+2013-12-27 10:43:23  
+2013-12-27 10:43:23 DB Error: connect . 
+2013-12-27 10:43:23  
+2013-12-27 10:43:23 DB Error: connect . 
+2013-12-27 10:43:23  
+2013-12-27 10:43:23 DB Error: connect . 
+2013-12-27 10:43:48  
+2013-12-27 10:43:48 DB Error: connect . 
+2013-12-27 10:44:04  
+2013-12-27 10:44:04 DB Error: connect . 
+2013-12-27 10:44:04  
+2013-12-27 10:44:04 DB Error: connect . 
+2013-12-27 10:44:04  
+2013-12-27 10:44:04 DB Error: connect . 
+2013-12-27 10:44:07  
+2013-12-27 10:44:07 DB Error: connect . 
+2013-12-27 10:44:07  
+2013-12-27 10:44:07 DB Error: connect . 
+2013-12-27 10:44:07  
+2013-12-27 10:44:07 DB Error: connect . 
+2013-12-27 10:44:28  
+2013-12-27 10:44:28 DB Error: connect . 
+2013-12-27 10:44:28  
+2013-12-27 10:44:28 DB Error: connect . 
+2013-12-27 10:44:28  
+2013-12-27 10:44:28 DB Error: connect . 
+2013-12-27 10:44:29  
+2013-12-27 10:44:29 DB Error: connect . 
+2013-12-27 10:44:32  
+2013-12-27 10:44:32 DB Error: connect . 
+2013-12-27 10:44:37  
+2013-12-27 10:44:37 DB Error: connect . 
+2013-12-27 10:44:43  
+2013-12-27 10:44:43 DB Error: connect . 
+2013-12-27 10:44:47  
+2013-12-27 10:44:47 DB Error: connect . 
+2013-12-27 10:45:28  
+2013-12-27 10:45:28 DB Error: connect . 
+2013-12-27 10:45:28  
+2013-12-27 10:45:28 DB Error: connect . 
+2013-12-27 10:45:28  
+2013-12-27 10:45:28 DB Error: connect . 
+2013-12-27 10:45:29  
+2013-12-27 10:45:29 DB Error: connect . 
+2013-12-27 10:45:31  
+2013-12-27 10:45:31 DB Error: connect . 
+2013-12-27 10:45:35  
+2013-12-27 10:45:35 DB Error: connect . 
+2013-12-27 10:46:15  
+2013-12-27 10:46:15 DB Error: connect . 
+2013-12-27 10:46:20  
+2013-12-27 10:46:20 DB Error: connect . 
+2013-12-27 10:53:25  
+2013-12-27 10:53:25 DB Error: connect . 
+2013-12-27 10:53:25  
+2013-12-27 10:53:25 DB Error: connect . 
+2013-12-27 10:53:25  
+2013-12-27 10:53:25 DB Error: connect . 
+2013-12-27 10:53:26  
+2013-12-27 10:53:26 DB Error: connect . 
+2013-12-27 10:53:27  
+2013-12-27 10:53:27 DB Error: connect . 
+2013-12-27 10:55:13  
+2013-12-27 10:55:13 DB Error: connect . 
+2013-12-27 10:55:13  
+2013-12-27 10:55:13 DB Error: connect . 
+2013-12-27 10:55:40  
+2013-12-27 10:55:40 DB Error: connect . 
+2013-12-27 10:55:40  
+2013-12-27 10:55:40 DB Error: connect . 
+2013-12-27 10:55:40  
+2013-12-27 10:55:40 DB Error: connect . 
+2013-12-27 10:55:40  
+2013-12-27 10:55:40 DB Error: connect . 
+2013-12-27 10:55:53  
+2013-12-27 10:55:53 DB Error: connect . 
+2013-12-27 10:55:53  
+2013-12-27 10:55:53 DB Error: connect . 
+2013-12-27 10:55:53  
+2013-12-27 10:55:53 DB Error: connect . 
+2013-12-27 10:55:54  
+2013-12-27 10:55:54 DB Error: connect . 
+2013-12-27 10:56:01  
+2013-12-27 10:56:01 DB Error: connect . 
+2013-12-27 10:56:01  
+2013-12-27 10:56:01 DB Error: connect . 
+2013-12-27 10:56:02  
+2013-12-27 10:56:02 DB Error: connect . 
+2013-12-27 10:56:02  
+2013-12-27 10:56:02 DB Error: connect . 
+2013-12-27 10:57:12  
+2013-12-27 10:57:12 DB Error: connect . 
+2013-12-27 10:57:12  
+2013-12-27 10:57:12 DB Error: connect . 
+2013-12-27 10:57:12  
+2013-12-27 10:57:12 DB Error: connect . 
+2013-12-27 10:57:13  
+2013-12-27 10:57:13 DB Error: connect . 
+2013-12-27 10:57:37  
+2013-12-27 10:57:37 DB Error: connect . 
+2013-12-27 10:57:37  
+2013-12-27 10:57:37 DB Error: connect . 
+2013-12-27 10:57:37  
+2013-12-27 10:57:37 DB Error: connect . 
+2013-12-27 10:57:37  
+2013-12-27 10:57:37 DB Error: connect . 
+2013-12-27 10:58:25  
+2013-12-27 10:58:25 DB Error: connect . 
+2013-12-27 10:58:25  
+2013-12-27 10:58:25 DB Error: connect . 
+2013-12-27 10:58:25  
+2013-12-27 10:58:25 DB Error: connect . 
+2013-12-27 10:58:25  
+2013-12-27 10:58:25 DB Error: connect . 
+2013-12-27 11:01:01  
+2013-12-27 11:01:01 DB Error: connect . 
+2013-12-27 11:01:02  
+2013-12-27 11:01:02 DB Error: connect . 
+2013-12-27 11:01:02  
+2013-12-27 11:01:02 DB Error: connect . 
+2013-12-27 11:01:03  
+2013-12-27 11:01:03 DB Error: connect . 
+2013-12-27 11:03:26  
+2013-12-27 11:03:26 DB Error: connect . 
+2013-12-27 11:03:26  
+2013-12-27 11:03:26 DB Error: connect . 
+2013-12-27 11:03:26  
+2013-12-27 11:03:26 DB Error: connect . 
+2013-12-27 11:03:27  
+2013-12-27 11:03:27 DB Error: connect . 
+2013-12-27 11:04:25  
+2013-12-27 11:04:25 DB Error: connect . 
+2013-12-27 11:04:25  
+2013-12-27 11:04:25 DB Error: connect . 
+2013-12-27 11:04:25  
+2013-12-27 11:04:25 DB Error: connect . 
+2013-12-27 11:04:26  
+2013-12-27 11:04:26 DB Error: connect . 
+2013-12-27 11:04:54  
+2013-12-27 11:04:54 DB Error: connect . 
+2013-12-27 11:04:54  
+2013-12-27 11:04:54 DB Error: connect . 
+2013-12-27 11:04:54  
+2013-12-27 11:04:54 DB Error: connect . 
+2013-12-27 11:04:55  
+2013-12-27 11:04:55 DB Error: connect . 
+2013-12-27 11:04:56  
+2013-12-27 11:04:56 DB Error: connect . 
+2013-12-27 11:05:00  
+2013-12-27 11:05:00 DB Error: connect . 
+2013-12-27 11:07:00  
+2013-12-27 11:07:00 DB Error: connect . 
+2013-12-27 11:07:08  
+2013-12-27 11:07:08 DB Error: connect . 
+2013-12-27 11:07:12  
+2013-12-27 11:07:12 DB Error: connect . 
+2013-12-27 11:07:34  
+2013-12-27 11:07:34 DB Error: connect . 
+2013-12-27 11:07:34  
+2013-12-27 11:07:34 DB Error: connect . 
+2013-12-27 11:13:58  
+2013-12-27 11:13:58 DB Error: connect . 
+2013-12-27 11:13:58  
+2013-12-27 11:13:58 DB Error: connect . 
+2013-12-27 11:13:58  
+2013-12-27 11:13:58 DB Error: connect . 
+2013-12-27 11:13:59  
+2013-12-27 11:13:59 DB Error: connect . 
+2013-12-27 11:14:05  
+2013-12-27 11:14:05 DB Error: connect . 
+2013-12-27 11:14:05  
+2013-12-27 11:14:05 DB Error: connect . 
+2013-12-27 11:14:06  
+2013-12-27 11:14:06 DB Error: connect . 
+2013-12-27 11:14:06  
+2013-12-27 11:14:06 DB Error: connect . 
+2013-12-27 11:14:10  
+2013-12-27 11:14:10 DB Error: connect . 
+2013-12-27 11:14:10  
+2013-12-27 11:14:10 DB Error: connect . 
+2013-12-27 11:14:11  
+2013-12-27 11:14:11 DB Error: connect . 
+2013-12-27 11:14:34  
+2013-12-27 11:14:34 DB Error: connect . 
+2013-12-27 11:14:34  
+2013-12-27 11:14:34 DB Error: connect . 
+2013-12-27 11:14:34  
+2013-12-27 11:14:34 DB Error: connect . 
+2013-12-27 11:15:16  
+2013-12-27 11:15:16 DB Error: connect . 
+2013-12-27 11:15:16  
+2013-12-27 11:15:16 DB Error: connect . 
+2013-12-27 11:15:17  
+2013-12-27 11:15:17 DB Error: connect . 
+2013-12-27 11:15:42  
+2013-12-27 11:15:42 DB Error: connect . 
+2013-12-27 11:15:42  
+2013-12-27 11:15:42 DB Error: connect . 
+2013-12-27 11:15:42  
+2013-12-27 11:15:42 DB Error: connect . 
+2013-12-27 11:17:17  
+2013-12-27 11:17:17 DB Error: connect . 
+2013-12-27 11:17:17  
+2013-12-27 11:17:17 DB Error: connect . 
+2013-12-27 11:17:18  
+2013-12-27 11:17:18 DB Error: connect . 
+2013-12-27 11:17:32  
+2013-12-27 11:17:32 DB Error: connect . 
+2013-12-27 11:17:32  
+2013-12-27 11:17:32 DB Error: connect . 
+2013-12-27 11:17:32  
+2013-12-27 11:17:32 DB Error: connect . 
+2013-12-27 11:19:25  
+2013-12-27 11:19:25 DB Error: connect . 
+2013-12-27 11:19:25  
+2013-12-27 11:19:25 DB Error: connect . 
+2013-12-27 11:19:25  
+2013-12-27 11:19:25 DB Error: connect . 
+2013-12-27 11:19:43  
+2013-12-27 11:19:43 DB Error: connect . 
+2013-12-27 11:20:38  
+2013-12-27 11:20:38 DB Error: connect . 
+2013-12-27 11:20:40  
+2013-12-27 11:20:40 DB Error: connect . 
+2013-12-27 11:20:40  
+2013-12-27 11:20:40 DB Error: connect . 
+2013-12-27 11:20:40  
+2013-12-27 11:20:40 DB Error: connect . 
+2013-12-27 11:20:40  
+2013-12-27 11:20:40 DB Error: connect . 
+2013-12-27 11:20:40  
+2013-12-27 11:20:40 DB Error: connect . 
+2013-12-27 11:35:59  
+2013-12-27 11:35:59 DB Error: connect . 
+2013-12-27 11:35:59  
+2013-12-27 11:35:59 DB Error: connect . 
+2013-12-27 11:35:59  
+2013-12-27 11:35:59 DB Error: connect . 
+2013-12-27 11:36:00  
+2013-12-27 11:36:00 DB Error: connect . 
+2013-12-27 11:36:02  
+2013-12-27 11:36:02 DB Error: connect . 
+2013-12-27 11:36:02  
+2013-12-27 11:36:02 DB Error: connect . 
+2013-12-27 11:36:02  
+2013-12-27 11:36:02 DB Error: connect . 
+2013-12-27 11:36:02  
+2013-12-27 11:36:02 DB Error: connect . 
+2013-12-27 11:36:02  
+2013-12-27 11:36:02 DB Error: connect . 
+2013-12-27 11:36:11  
+2013-12-27 11:36:11 DB Error: connect . 
+2013-12-27 11:36:17  
+2013-12-27 11:36:17 DB Error: connect . 
+2013-12-27 11:36:21  
+2013-12-27 11:36:21 DB Error: connect . 
+2013-12-27 11:36:22  
+2013-12-27 11:36:22 DB Error: connect . 
+2013-12-27 11:36:22  
+2013-12-27 11:36:22 DB Error: connect . 
+2013-12-27 11:36:26  
+2013-12-27 11:36:26 DB Error: connect . 
+2013-12-27 11:37:05  
+2013-12-27 11:37:05 DB Error: connect . 
+2013-12-27 11:37:05  
+2013-12-27 11:37:05 DB Error: connect . 
+2013-12-27 11:51:45  
+2013-12-27 11:51:45 DB Error: connect . 
+2013-12-27 11:52:03  
+2013-12-27 11:52:03 DB Error: connect . 
+2013-12-27 11:52:08  
+2013-12-27 11:52:08 DB Error: connect . 
+2013-12-27 11:52:14  
+2013-12-27 11:52:14 DB Error: connect . 
+2013-12-27 11:52:17  
+2013-12-27 11:52:17 DB Error: connect . 
+2013-12-27 11:52:22  
+2013-12-27 11:52:22 DB Error: connect . 
+2013-12-27 11:52:27  
+2013-12-27 11:52:27 DB Error: connect . 
+2013-12-27 11:52:34  
+2013-12-27 11:52:34 DB Error: connect . 
+2013-12-27 11:52:40  
+2013-12-27 11:52:40 DB Error: connect . 
+2013-12-27 11:52:41  
+2013-12-27 11:52:41 DB Error: connect . 
+2013-12-27 11:52:42  
+2013-12-27 11:52:42 DB Error: connect . 
+2013-12-27 11:52:42  
+2013-12-27 11:52:42 DB Error: connect . 
+2013-12-27 11:52:43  
+2013-12-27 11:52:43 DB Error: connect . 
+2013-12-27 11:52:43  
+2013-12-27 11:52:43 DB Error: connect . 
+2013-12-27 11:52:44  
+2013-12-27 11:52:44 DB Error: connect . 
+2013-12-27 11:52:46  
+2013-12-27 11:52:46 DB Error: connect . 
+2013-12-27 11:52:47  
+2013-12-27 11:52:47 DB Error: connect . 
+2013-12-27 11:52:52  
+2013-12-27 11:52:52 DB Error: connect . 
+2013-12-27 11:52:52  
+2013-12-27 11:52:52 DB Error: connect . 
+2013-12-27 12:20:58  
+2013-12-27 12:20:58 DB Error: connect . 
+2013-12-27 12:20:58  
+2013-12-27 12:20:58 DB Error: connect . 
+2013-12-27 12:20:58  
+2013-12-27 12:20:58 DB Error: connect . 
+2013-12-27 12:21:00  
+2013-12-27 12:21:00 DB Error: connect . 
+2013-12-27 12:21:08  
+2013-12-27 12:21:08 DB Error: connect . 
+2013-12-27 12:21:16  
+2013-12-27 12:21:16 DB Error: connect . 
+2013-12-28 05:56:54  
+2013-12-28 05:56:54 DB Error: connect . 
+2013-12-28 05:56:54  
+2013-12-28 05:56:54 DB Error: connect . 
+2013-12-28 05:57:02  
+2013-12-28 05:57:02 DB Error: connect . 
+2013-12-28 05:57:04  
+2013-12-28 05:57:04 DB Error: connect . 
+2013-12-28 05:57:07  
+2013-12-28 05:57:07 DB Error: connect . 
+2013-12-29 11:18:10  
+2013-12-29 11:18:10  
+2013-12-29 11:18:10 DB Error: connect . 
+2013-12-29 11:18:10 DB Error: connect . 
+2013-12-29 11:18:11  
+2013-12-29 11:18:11 DB Error: connect . 
+2013-12-29 11:18:46  
+2013-12-29 11:18:46 DB Error: connect . 
+2013-12-31 15:24:18  
+2013-12-31 15:24:18  
+2013-12-31 15:24:18 DB Error: connect . 
+2013-12-31 15:24:18 DB Error: connect . 
+2013-12-31 15:24:22  
+2013-12-31 15:24:22 DB Error: connect . 
+2014-01-06 18:28:56  
+2014-01-06 18:28:56  
+2014-01-06 18:28:56 DB Error: connect . 
+2014-01-06 18:28:56 DB Error: connect . 
+2014-01-06 18:28:57  
+2014-01-06 18:28:57 DB Error: connect . 
+2014-01-06 18:28:59  
+2014-01-06 18:28:59 DB Error: connect . 
+2014-01-06 18:29:14  
+2014-01-06 18:29:14 DB Error: connect . 
+2014-01-06 18:29:14  
+2014-01-06 18:29:14 DB Error: connect . 
+2014-01-06 18:29:15  
+2014-01-06 18:29:15 DB Error: connect . 
+2014-01-06 18:29:15  
+2014-01-06 18:29:15 DB Error: connect . 
+2014-01-06 18:29:38  
+2014-01-06 18:29:38 DB Error: connect . 
+2014-01-06 18:30:05  
+2014-01-06 18:30:05 DB Error: connect . 
+2014-01-06 18:31:19  
+2014-01-06 18:31:19 DB Error: connect . 
